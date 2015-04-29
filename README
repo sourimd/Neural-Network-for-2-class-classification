@@ -1,0 +1,2 @@
+Code for Neural Network for 2 class classification. The .png file denotes the decrease in Error Rate as the classifier
+gets more and more trained. Used neurolab python package for neural network specific functions.
